@@ -1,4 +1,4 @@
-ACCESSIBILITY PROJECT
+# ACCESSIBILITY PROJECT
 
 1. Before you get started, please download the Screen Reader extensionon Google Chrome -
 https://chrome.google.com/webstore/detail/screen-reader/kgejglhpjiefppelpmljglcjbhoiplfn?hl=en.
